@@ -1,0 +1,11 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  width: 100vw;
+  padding: 0 15px;
+  background: lightgray;
+}
+.navbar__links {
+  margin-left: 270px;
+}
